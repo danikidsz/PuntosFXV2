@@ -1,0 +1,6 @@
+com\mycompany\puntosfxv2\FXMLPuntosController.class
+module-info.class
+com\mycompany\puntosfxv2\App.class
+com\mycompany\puntosfxv2\SecondaryController.class
+com\mycompany\puntosfxv2\PrimaryController.class
+modelo\Puntos2D.class
